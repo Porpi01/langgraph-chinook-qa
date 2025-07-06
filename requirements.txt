@@ -13,3 +13,4 @@ google-generativeai
 sqlalchemy
 psycopg2-binary
 streamlit
+langchain_community
