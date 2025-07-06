@@ -7,3 +7,8 @@ pandas
 psycopg2-binary
 scikit-learn
 dotenv
+langchain
+langgraph
+google-generativeai
+sqlalchemy
+psycopg2-binary
