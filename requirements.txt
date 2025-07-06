@@ -12,3 +12,4 @@ langgraph
 google-generativeai
 sqlalchemy
 psycopg2-binary
+streamlit
